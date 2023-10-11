@@ -8,6 +8,9 @@ Finding the initial temperature parameter can be particularly challenging. To do
 Each of my TSP problems are from the [TSPLIB website](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) hosted by Heidelberg University.
 
 Useful links for understanding these topics:
+
 More on the TSP: https://en.wikipedia.org/wiki/Travelling_salesman_problem
+
 Simulated Annealing: https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/
+
 Simulated Annealing & TSP: https://towardsdatascience.com/how-to-solve-travelling-salesman-problem-with-simulated-annealing-c248447a8bcd 
