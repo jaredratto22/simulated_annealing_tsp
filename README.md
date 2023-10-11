@@ -5,7 +5,7 @@ Simulated Annealing has been successfully applied for many real world problems, 
 
 Finding the initial temperature parameter can be particularly challenging. To do this, I implemented an [algorithm proposed by Walid Ben-Ameur](https://www.mendeley.com/catalogue/8a3521ca-3e4d-362e-86d6-0d2aad69f398/) (see steps on page 374) in Python. Some experimentation might be needed to find the parameter S that is used in that algorithm. I provided a couple functions that may make finding S a little easier.
 
-In the Traveling Salesman Problem, the salesman must visit all cities within the itinerary once and return to the original city where the journey began. It should be easy to find the shortest route for this right? This problem is in fact very difficult to solve as your number of cities grows, which is why local search heuristics are often needed to approximate an optimal answer. 
+In the Traveling Salesman Problem, the salesman must visit all cities within the itinerary once and return to the original city where the journey began. It should be easy to find the shortest route for this right? This problem is in fact very difficult to solve as your number of cities grows, which is why local search heuristics are often needed to approximate a near-optimal answer. 
 
 Each of the TSP benchmark problems used in my experiment are from the [TSPLIB website](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/) hosted by Heidelberg University.
 
